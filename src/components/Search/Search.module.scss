@@ -1,0 +1,22 @@
+.root {
+    border: 1px solid pgba(0,0,0,0.1);
+    padding: 12px 20px;
+    width: 300px;
+    border-radius: 15px;
+    font-size: 16px;
+
+    
+
+}
+.clearIcon {
+    width: 28px;
+    opacity: 0.2;
+    height: 28px;
+    right: 15px;
+    top: 15px;
+    &:hover {
+        opacity: 1;
+    }
+
+    
+}
